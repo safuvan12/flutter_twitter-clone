@@ -4,16 +4,16 @@ Source Code for Full Stack Twitter App - Works on Android
 
 ## Features
 
-Sign Up With Email, Password
-Sign In With Email, Password
-Tweeting Text
-Tweeting Image
-Tweeting Link
-Hashtag identification & storage
-Displaying tweets
-Liking tweet
-Search users
-Display followers, following, recent tweets
+> Sign Up With Email, Password
+> Sign In With Email, Password
+> Tweeting Text
+> Tweeting Image
+> Tweeting Link
+> Hashtag identification & storage
+> Displaying tweets
+> Liking tweet
+> Search users
+> Display followers, following, recent tweets
 
 This project is a starting point for a Flutter application.
 
